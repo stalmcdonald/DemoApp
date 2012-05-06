@@ -36,30 +36,6 @@ height:70px;
 padding:1.5px 3% 0;
 }
 
-#escapehatch  #menu {
-	float: none;
-	margin-top: -8px;
-}
-
-#escapehatch  ul {
-	float: none;
-}
-
-#escapehatch  li a {
-	padding: 13px 0;
-}
-
-#escapehatch  li a {
-	font-size: 1em;
-}
-
-#escapehatch  li {
-	display: block;
-	float: left;
-	text-align: center;
-	width: 20%;
-}
-
 #demoName {
 	float: none;
 	font-size: 4em;
